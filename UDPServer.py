@@ -1,8 +1,6 @@
-# Team: RGB Alphas
-# Names: Justin Dinkelbach, Timothy Hinea, David Sullivan, Brandon Lee
+# Name: Justin Dinkelbach
 # Date: 9/25/2020
 # Project: Programming Assignment 2
-
 # Server.py
 # We will need the following module to generate
 # randomized lost packets

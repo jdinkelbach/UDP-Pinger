@@ -1,5 +1,4 @@
-# Team: RGB Alphas
-# Names: Justin Dinkelbach, Timothy Hinea, David Sullivan, Brandon Lee
+# Justin Dinkelbach
 # Date: 9/25/2020
 # Project: Programming Assignment 2
 # Client.py
